@@ -1,0 +1,53 @@
+{
+  "mensagem": "Mensagens resgatadas com sucesso.",
+  "msg": [
+    {
+      "id": "f84c5563-edcf-45ff-803f-0bc82cfeb769",
+      "name": "TAHSASUI",
+      "phone": "5133316589",
+      "email": null,
+      "petName": "TAHSASUI",
+      "msg": "tESTE",
+      "createdAt": "2024-08-07T16:07:52.241Z",
+      "updatedAt": "2024-08-07T16:07:52.241Z",
+      "deletedAt": null,
+      "adopter": {
+        "id": "ac087aeb-7085-4d8a-a26f-e4614413960d",
+        "nome": "Ana de Jesus",
+        "email": "ana2@email.com",
+        "password": "$2b$10$itrIf2z6YwUO.powGQc0FeVcQWGiNR2.BRPxk2opK7uWXHogXB2SW",
+        "telefone": null,
+        "cidade": null,
+        "sobre": null,
+        "fotoPerfil": null,
+        "createdAt": "2024-07-16T16:29:42.030Z",
+        "updatedAt": "2024-07-16T16:29:42.030Z",
+        "deletedAt": null
+      }
+    },
+    {
+      "id": "ede12b63-c4df-477d-8964-b917416c9230",
+      "name": "TAHSASUI",
+      "phone": "5133316589",
+      "email": null,
+      "petName": "TAHSASUI",
+      "msg": "t",
+      "createdAt": "2024-08-12T16:12:10.698Z",
+      "updatedAt": "2024-08-12T16:12:10.698Z",
+      "deletedAt": null,
+      "adopter": {
+        "id": "ac087aeb-7085-4d8a-a26f-e4614413960d",
+        "nome": "Ana de Jesus",
+        "email": "ana2@email.com",
+        "password": "$2b$10$itrIf2z6YwUO.powGQc0FeVcQWGiNR2.BRPxk2opK7uWXHogXB2SW",
+        "telefone": null,
+        "cidade": null,
+        "sobre": null,
+        "fotoPerfil": null,
+        "createdAt": "2024-07-16T16:29:42.030Z",
+        "updatedAt": "2024-07-16T16:29:42.030Z",
+        "deletedAt": null
+      }
+    }
+  ]
+}
